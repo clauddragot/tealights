@@ -1,6 +1,5 @@
 # TeaLights
 Device that shows the current temperature of the liquid inside of an object and also estimates when is the ideal time to drink it.
-
 The project consist in the implementation of a device (PCB composed of a NTC thermistor, connected to a development board NodeMCU Lua WIFI, both integrated with ESP8266 microcontroller). 
 This device is used for measuring and informing the user about the temperature of liquids in real time through a web application and also a mobile application. The problem stems from the fact that often the liquid in a container is too cold or too hot, and the latter inconvenience can even be harmful. Thus, the experience would be a much more pleasant one with a device that informs us when is the ideal time to serve the drink.
 This system work with a PCB that is composed of a temperature sensor (NTC thermistor) connected to a development board (NodeMCU Lua WIFI), both integrated with ESP8266 microcontroller. 
