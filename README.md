@@ -8,3 +8,8 @@ This system work with a PCB that is composed of a temperature sensor (NTC thermi
 The mentioned development boards have the integrated TCP / IP protocol, but also have 802.11 support: b / g / n, and thus the user will be able to connect to the device via WiFi and will be able to see the updates related to the current liquid temperature, and also the time remaining until it no longer has a temperature considered optimal. 
 
 At the same time, the user will be able to select, through the web page / mobile application, an optimal temperature considered by him and will be notified when the liquid has reached that temperature.
+
+![3](https://user-images.githubusercontent.com/79316266/139223408-f06787f0-59a3-4e6c-8a92-ee3d98922f1c.jpg)
+![7](https://user-images.githubusercontent.com/79316266/139223466-e153c44e-a53d-4cd1-8c29-85d54b5a80ba.jpg)
+![5](https://user-images.githubusercontent.com/79316266/139223605-828e4db5-6ee6-4400-9c1f-13c8e2050867.jpg)
+![poza_esp](https://user-images.githubusercontent.com/79316266/139223817-e84f6b66-535e-4664-b0d1-e6d63238c003.jpeg)
